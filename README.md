@@ -1,2 +1,1 @@
-
-This repository contains works on data analysis, machine learning and neural networks :)
+В данном репозитории будут представлены проекты по анализу данных, машинному и глубокому обучению.

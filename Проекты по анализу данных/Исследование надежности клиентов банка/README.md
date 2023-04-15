@@ -18,4 +18,4 @@
 * total_income — ежемесячный доход
 * purpose — цель получения кредита
 
-![screenshot of sample](https://cronos.asia/wp-content/uploads/2022/02/kreditnyj-skorring.jpeg)
+![screenshot of sample](https://развивай.рф/blog/wp-content/uploads/2022/10/иллюстрация-03-5.jpg)

@@ -18,4 +18,4 @@
 * total_income — ежемесячный доход
 * purpose — цель получения кредита
 
-![screenshot of sample](https://развивай.рф/blog/wp-content/uploads/2022/10/иллюстрация-03-5.jpg)
+![screenshot of sample](https://avatars.dzeninfra.ru/get-zen_doc/1362552/pub_5d62c34c2f4ad700ac2ed47f_5d62c3bba660d700ad2c37cd/scale_2400)
